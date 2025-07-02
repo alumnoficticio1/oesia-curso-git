@@ -1,0 +1,7 @@
+linea 1
+linea 2 ch1
+linea 3
+linea 4 ch2
+linea 5
+linea 6 ch3
+linea 7
